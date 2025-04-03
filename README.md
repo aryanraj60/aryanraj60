@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanraj60
 - 👀 I’m interested in Programming, Human Psychology and Traveling 
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently working as a Frontend Developer.
 
 <!---
 aryanraj60/aryanraj60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
